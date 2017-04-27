@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityInstallationDir>C:\Users\fabia\Desktop\Unity Collector\Editor\</UnityInstallationDir>
+        <UnityWSASolutionName>HoloTinAR</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\fabia\Desktop\VW Längsträger\HoloTinAR\HoloTinAR\App\</UnityWSASolutionDir>
+        <UnityWSAPlayerDir>C:\Users\fabia\Desktop\Unity Collector\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+        <UnityProjectDir>C:\Users\fabia\Desktop\VW Längsträger\HoloTinAR\HoloTinAR\</UnityProjectDir>
+    </PropertyGroup>
+</Project>
